@@ -1,0 +1,10 @@
+{
+  "kafka_engine": "Apache Kafka Event Stream Engine",
+  "topic": "news-raw-stream",
+  "consumer_group": "newspulse-analytics-group",
+  "total_messages_produced": 100,
+  "total_messages_consumed": 100,
+  "broker_status": "ACTIVE_CONNECTED",
+  "execution_time_seconds": 2.188,
+  "timestamp": "2026-10-13T15:39:28.592376Z"
+}

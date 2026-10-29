@@ -1,0 +1,12 @@
+{
+  "name": "big-data-news-analytics-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix project run dev",
+    "build": "npm --prefix project run build",
+    "preview": "npm --prefix project run preview",
+    "test": "npm --prefix project run test",
+    "typecheck": "npm --prefix project run typecheck",
+    "lint": "npm --prefix project run lint"
+  }
+}

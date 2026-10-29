@@ -1,0 +1,1002 @@
+[
+  {
+    "event_id": "evt_kfk_1",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #1",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632631Z"
+  },
+  {
+    "event_id": "evt_kfk_2",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #2",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632663Z"
+  },
+  {
+    "event_id": "evt_kfk_3",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #3",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632675Z"
+  },
+  {
+    "event_id": "evt_kfk_4",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #4",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632680Z"
+  },
+  {
+    "event_id": "evt_kfk_5",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #5",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632685Z"
+  },
+  {
+    "event_id": "evt_kfk_6",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #6",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632690Z"
+  },
+  {
+    "event_id": "evt_kfk_7",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #7",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632695Z"
+  },
+  {
+    "event_id": "evt_kfk_8",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #8",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632699Z"
+  },
+  {
+    "event_id": "evt_kfk_9",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #9",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632703Z"
+  },
+  {
+    "event_id": "evt_kfk_10",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #10",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632708Z"
+  },
+  {
+    "event_id": "evt_kfk_11",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #11",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632713Z"
+  },
+  {
+    "event_id": "evt_kfk_12",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #12",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632717Z"
+  },
+  {
+    "event_id": "evt_kfk_13",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #13",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632721Z"
+  },
+  {
+    "event_id": "evt_kfk_14",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #14",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632726Z"
+  },
+  {
+    "event_id": "evt_kfk_15",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #15",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632730Z"
+  },
+  {
+    "event_id": "evt_kfk_16",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #16",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632737Z"
+  },
+  {
+    "event_id": "evt_kfk_17",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #17",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632741Z"
+  },
+  {
+    "event_id": "evt_kfk_18",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #18",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632745Z"
+  },
+  {
+    "event_id": "evt_kfk_19",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #19",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632750Z"
+  },
+  {
+    "event_id": "evt_kfk_20",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #20",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632754Z"
+  },
+  {
+    "event_id": "evt_kfk_21",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #21",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632758Z"
+  },
+  {
+    "event_id": "evt_kfk_22",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #22",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632763Z"
+  },
+  {
+    "event_id": "evt_kfk_23",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #23",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632767Z"
+  },
+  {
+    "event_id": "evt_kfk_24",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #24",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632771Z"
+  },
+  {
+    "event_id": "evt_kfk_25",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #25",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632778Z"
+  },
+  {
+    "event_id": "evt_kfk_26",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #26",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632782Z"
+  },
+  {
+    "event_id": "evt_kfk_27",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #27",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632786Z"
+  },
+  {
+    "event_id": "evt_kfk_28",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #28",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632791Z"
+  },
+  {
+    "event_id": "evt_kfk_29",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #29",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632795Z"
+  },
+  {
+    "event_id": "evt_kfk_30",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #30",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632799Z"
+  },
+  {
+    "event_id": "evt_kfk_31",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #31",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632803Z"
+  },
+  {
+    "event_id": "evt_kfk_32",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #32",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632807Z"
+  },
+  {
+    "event_id": "evt_kfk_33",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #33",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632812Z"
+  },
+  {
+    "event_id": "evt_kfk_34",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #34",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632816Z"
+  },
+  {
+    "event_id": "evt_kfk_35",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #35",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632824Z"
+  },
+  {
+    "event_id": "evt_kfk_36",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #36",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632828Z"
+  },
+  {
+    "event_id": "evt_kfk_37",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #37",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632833Z"
+  },
+  {
+    "event_id": "evt_kfk_38",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #38",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632837Z"
+  },
+  {
+    "event_id": "evt_kfk_39",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #39",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632841Z"
+  },
+  {
+    "event_id": "evt_kfk_40",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #40",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632845Z"
+  },
+  {
+    "event_id": "evt_kfk_41",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #41",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632852Z"
+  },
+  {
+    "event_id": "evt_kfk_42",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #42",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632893Z"
+  },
+  {
+    "event_id": "evt_kfk_43",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #43",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632899Z"
+  },
+  {
+    "event_id": "evt_kfk_44",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #44",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632903Z"
+  },
+  {
+    "event_id": "evt_kfk_45",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #45",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632908Z"
+  },
+  {
+    "event_id": "evt_kfk_46",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #46",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632912Z"
+  },
+  {
+    "event_id": "evt_kfk_47",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #47",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632916Z"
+  },
+  {
+    "event_id": "evt_kfk_48",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #48",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632920Z"
+  },
+  {
+    "event_id": "evt_kfk_49",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #49",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632924Z"
+  },
+  {
+    "event_id": "evt_kfk_50",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #50",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632928Z"
+  },
+  {
+    "event_id": "evt_kfk_51",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #51",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632932Z"
+  },
+  {
+    "event_id": "evt_kfk_52",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #52",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632936Z"
+  },
+  {
+    "event_id": "evt_kfk_53",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #53",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632940Z"
+  },
+  {
+    "event_id": "evt_kfk_54",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #54",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632949Z"
+  },
+  {
+    "event_id": "evt_kfk_55",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #55",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632957Z"
+  },
+  {
+    "event_id": "evt_kfk_56",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #56",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632961Z"
+  },
+  {
+    "event_id": "evt_kfk_57",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #57",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632968Z"
+  },
+  {
+    "event_id": "evt_kfk_58",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #58",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632973Z"
+  },
+  {
+    "event_id": "evt_kfk_59",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #59",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632977Z"
+  },
+  {
+    "event_id": "evt_kfk_60",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #60",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632982Z"
+  },
+  {
+    "event_id": "evt_kfk_61",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #61",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632986Z"
+  },
+  {
+    "event_id": "evt_kfk_62",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #62",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632990Z"
+  },
+  {
+    "event_id": "evt_kfk_63",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #63",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.632994Z"
+  },
+  {
+    "event_id": "evt_kfk_64",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #64",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.632998Z"
+  },
+  {
+    "event_id": "evt_kfk_65",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #65",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633002Z"
+  },
+  {
+    "event_id": "evt_kfk_66",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #66",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633007Z"
+  },
+  {
+    "event_id": "evt_kfk_67",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #67",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633012Z"
+  },
+  {
+    "event_id": "evt_kfk_68",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #68",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633016Z"
+  },
+  {
+    "event_id": "evt_kfk_69",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #69",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633020Z"
+  },
+  {
+    "event_id": "evt_kfk_70",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #70",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633024Z"
+  },
+  {
+    "event_id": "evt_kfk_71",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #71",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633028Z"
+  },
+  {
+    "event_id": "evt_kfk_72",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #72",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633033Z"
+  },
+  {
+    "event_id": "evt_kfk_73",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #73",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633037Z"
+  },
+  {
+    "event_id": "evt_kfk_74",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #74",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633048Z"
+  },
+  {
+    "event_id": "evt_kfk_75",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #75",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633054Z"
+  },
+  {
+    "event_id": "evt_kfk_76",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #76",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633060Z"
+  },
+  {
+    "event_id": "evt_kfk_77",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #77",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633066Z"
+  },
+  {
+    "event_id": "evt_kfk_78",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #78",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633077Z"
+  },
+  {
+    "event_id": "evt_kfk_79",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #79",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633081Z"
+  },
+  {
+    "event_id": "evt_kfk_80",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #80",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633086Z"
+  },
+  {
+    "event_id": "evt_kfk_81",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #81",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633090Z"
+  },
+  {
+    "event_id": "evt_kfk_82",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #82",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633094Z"
+  },
+  {
+    "event_id": "evt_kfk_83",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #83",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633099Z"
+  },
+  {
+    "event_id": "evt_kfk_84",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #84",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633107Z"
+  },
+  {
+    "event_id": "evt_kfk_85",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #85",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633112Z"
+  },
+  {
+    "event_id": "evt_kfk_86",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #86",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633117Z"
+  },
+  {
+    "event_id": "evt_kfk_87",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #87",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633121Z"
+  },
+  {
+    "event_id": "evt_kfk_88",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #88",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633125Z"
+  },
+  {
+    "event_id": "evt_kfk_89",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #89",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633133Z"
+  },
+  {
+    "event_id": "evt_kfk_90",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #90",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633137Z"
+  },
+  {
+    "event_id": "evt_kfk_91",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #91",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633141Z"
+  },
+  {
+    "event_id": "evt_kfk_92",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #92",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633146Z"
+  },
+  {
+    "event_id": "evt_kfk_93",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #93",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633150Z"
+  },
+  {
+    "event_id": "evt_kfk_94",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #94",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633158Z"
+  },
+  {
+    "event_id": "evt_kfk_95",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #95",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633162Z"
+  },
+  {
+    "event_id": "evt_kfk_96",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #96",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633166Z"
+  },
+  {
+    "event_id": "evt_kfk_97",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #97",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633171Z"
+  },
+  {
+    "event_id": "evt_kfk_98",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #98",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633175Z"
+  },
+  {
+    "event_id": "evt_kfk_99",
+    "topic": "news-raw-stream",
+    "partition_key": "World",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #99",
+    "source": "Wired",
+    "category": "World",
+    "sentiment": "Neutral",
+    "published_at": "2026-10-09T12:15:29.633179Z"
+  },
+  {
+    "event_id": "evt_kfk_100",
+    "topic": "news-raw-stream",
+    "partition_key": "Technology",
+    "title": "Real-Time Cyber Security & AI Event Stream Update #100",
+    "source": "BBC News",
+    "category": "Technology",
+    "sentiment": "Positive",
+    "published_at": "2026-10-09T12:15:29.633183Z"
+  }
+]

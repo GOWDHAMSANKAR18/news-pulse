@@ -1,0 +1,9 @@
+{
+  "spark_engine": "Apache Spark (PySpark 4.2.0 Integration)",
+  "master": "local[*]",
+  "total_records_processed": 500,
+  "partitions_computed": 2,
+  "execution_time_seconds": 0.005,
+  "status": "SUCCESSFUL",
+  "timestamp": "2026-10-13T15:39:06.961694Z"
+}

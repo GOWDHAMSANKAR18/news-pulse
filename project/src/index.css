@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html, body, #root {
+  height: 100%;
+  background-color: #000000 !important;
+  color: #FFFFFF;
+}
+
+body {
+  background-color: #000000 !important;
+  color: #FFFFFF;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom Dark Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #262626;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #404040;
+}
+
+/* Native Control Dark Styling */
+select, option, input, textarea {
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+  color-scheme: dark;
+  border-color: #262626;
+}
+
+option {
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+}
+
+/* Glassmorphism & Card Surface Utility - Pure Black #000000 */
+.glass {
+  background-color: #000000 !important;
+  background: #000000 !important;
+  border: 1px solid #262626;
+}
+
+.glass-card {
+  background-color: #000000 !important;
+  background: #000000 !important;
+  border: 1px solid #262626;
+}
